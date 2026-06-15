@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Line changed on main
-=======
-Line from feature branch
->>>>>>> feature/conflict
+Line resolved: combined main and feature
